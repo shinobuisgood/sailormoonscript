@@ -44,4 +44,3 @@ print("""
   \___ \ / /\ \   | | | |   | |  | |  _  /  | |\/| | |  | | |  | | . ` | |
   ____) / ____ \ _| |_| |___| |__| | | \ \  | |  | | |__| | |__| | |\  |_|
  |_____/_/    \_\_____|______\____/|_|  \_\ |_|  |_|\____/ \____/|_| \_(_)""")
-input("thank you for choosing sailor moon on your computer :) we will never forget. programmed by dominic")
